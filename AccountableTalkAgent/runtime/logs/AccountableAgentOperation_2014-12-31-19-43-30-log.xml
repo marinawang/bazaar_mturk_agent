@@ -1,0 +1,26 @@
+<entry timestamp="2014-12-31#19:43:30" user="AccountableAgentOperation" level="INFO">Logger initialized</entry>
+<entry timestamp="2014-12-31#19:43:30" user="AccountableAgentOperation" level="NORMAL">AgentOperator AccountableAgentOperation created</entry>
+<entry timestamp="2014-12-31#19:43:30" user="AccountableAgentOperation" level="NORMAL">Operation Created</entry>
+<entry timestamp="2014-12-31#19:43:30" user="AccountableAgentOperation" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker]</entry>
+<entry timestamp="2014-12-31#19:43:30" user="AccountableAgentOperation" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor]</entry>
+<entry timestamp="2014-12-31#19:43:31" user="AccountableAgentOperation" level="NORMAL">Starting operation</entry>
+<entry timestamp="2014-12-31#19:43:31" user="AccountableAgentOperation" level="NORMAL">Operation started</entry>
+<entry timestamp="2014-12-31#19:43:38" user="AccountableAgentOperation" level="NORMAL">setting basilica2.agents.room_name to Test</entry>
+<entry timestamp="2014-12-31#19:43:38" user="AccountableAgentOperation" level="NORMAL"><launching room=Test/></entry>
+<entry timestamp="2014-12-31#19:43:38" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2014-12-31#19:43:38" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2014-12-31#19:43:38" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2014-12-31#19:43:38" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2014-12-31#19:43:38" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2014-12-31#19:43:38" user="AgentFactory" level="NORMAL">Agent build. Sage_Test</entry>
+<entry timestamp="2014-12-31#19:43:38" user="AccountableAgentOperation" level="NORMAL">Adding agent Sage_Test</entry>
+<entry timestamp="2014-12-31#19:43:38" user="AccountableAgentOperation" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2014-12-31#19:43:38" user="AccountableAgentOperation" level="INFO">Initializing new agent</entry>
+<entry timestamp="2014-12-31#19:43:40" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +2.5 wps</entry>
+<entry timestamp="2014-12-31#19:43:40" user="AccountableAgentOperation" level="ERROR">Don't know what to do for ccListener</entry>
+<entry timestamp="2014-12-31#19:43:40" user="AccountableAgentOperation" level="INFO">Starting new Agent</entry>
+<entry timestamp="2014-12-31#19:43:40" user="AccountableAgentOperation" level="NORMAL">notified UI of agent launch for Sage_Test</entry>
+<entry timestamp="2014-12-31#19:43:40" user="AccountableAgentOperation" level="NORMAL">Agent added Sage_Test</entry>
+<entry timestamp="2014-12-31#19:44:10" user="Sage_Test Wizard" level="INFO">displaying wizard UI for Sage_Test</entry>
+<entry timestamp="2014-12-31#19:44:17" user="" level="NORMAL">ACCEPTED! Message from Sage: thr WIZARD</entry>
+<entry timestamp="2014-12-31#19:44:23" user="" level="NORMAL">ACCEPTED! Message from Sage: thr WIZARD</entry>

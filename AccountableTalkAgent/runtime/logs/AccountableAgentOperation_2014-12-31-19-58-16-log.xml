@@ -1,0 +1,50 @@
+<entry timestamp="2014-12-31#19:58:16" user="AccountableAgentOperation" level="INFO">Logger initialized</entry>
+<entry timestamp="2014-12-31#19:58:16" user="AccountableAgentOperation" level="NORMAL">AgentOperator AccountableAgentOperation created</entry>
+<entry timestamp="2014-12-31#19:58:16" user="AccountableAgentOperation" level="NORMAL">Operation Created</entry>
+<entry timestamp="2014-12-31#19:58:16" user="AccountableAgentOperation" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker]</entry>
+<entry timestamp="2014-12-31#19:58:16" user="AccountableAgentOperation" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor]</entry>
+<entry timestamp="2014-12-31#19:58:17" user="AccountableAgentOperation" level="NORMAL">Starting operation</entry>
+<entry timestamp="2014-12-31#19:58:17" user="AccountableAgentOperation" level="NORMAL">Operation started</entry>
+<entry timestamp="2014-12-31#19:58:32" user="AccountableAgentOperation" level="NORMAL">setting basilica2.agents.room_name to maa</entry>
+<entry timestamp="2014-12-31#19:58:32" user="AccountableAgentOperation" level="NORMAL"><launching room=maa/></entry>
+<entry timestamp="2014-12-31#19:58:32" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2014-12-31#19:58:32" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2014-12-31#19:58:32" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2014-12-31#19:58:32" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2014-12-31#19:58:32" user="AgentFactory" level="NORMAL">Components read. N=4</entry>
+<entry timestamp="2014-12-31#19:58:32" user="AgentFactory" level="NORMAL">Agent build. ExampleAgent_maa</entry>
+<entry timestamp="2014-12-31#19:58:32" user="AccountableAgentOperation" level="NORMAL">Adding agent ExampleAgent_maa</entry>
+<entry timestamp="2014-12-31#19:58:32" user="AccountableAgentOperation" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2014-12-31#19:58:32" user="AccountableAgentOperation" level="INFO">Initializing new agent</entry>
+<entry timestamp="2014-12-31#19:58:32" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +2.5 wps</entry>
+<entry timestamp="2014-12-31#19:58:33" user="AccountableAgentOperation" level="INFO">Starting new Agent</entry>
+<entry timestamp="2014-12-31#19:58:33" user="AccountableAgentOperation" level="NORMAL">notified UI of agent launch for ExampleAgent_maa</entry>
+<entry timestamp="2014-12-31#19:58:33" user="AccountableAgentOperation" level="NORMAL">Agent added ExampleAgent_maa</entry>
+<entry timestamp="2014-12-31#19:59:02" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2014-12-31#19:59:02" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2014-12-31#19:59:48" user="ExampleAgent_maa Wizard" level="INFO">displaying wizard UI for ExampleAgent_maa</entry>
+<entry timestamp="2014-12-31#19:59:52" user="" level="NORMAL">ACCEPTED! Message from ExampleAgent: hello WIZARD</entry>
+<entry timestamp="2014-12-31#20:01:03" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: intro</entry>
+<entry timestamp="2014-12-31#20:01:03" user="PlanExecutor" level="NORMAL">Firing Stage 'intro'</entry>
+<entry timestamp="2014-12-31#20:01:03" user="Step" level="NORMAL">starting 30 second timeout for GREETINGS</entry>
+<entry timestamp="2014-12-31#20:01:03" user="Step" level="NORMAL">Handlers for GREETINGS(greet): [basilica2.agents.listeners.plan.GreetStepHandler@4741acf8]</entry>
+<entry timestamp="2014-12-31#20:01:03" user="PromptTable" level="ERROR">Unable to load prompts (java.io.FileNotFoundException: /Users/researcher/Documents/workspace/AccountableTalkAgent/runtime/plans/alice_prompt.xml (No such file or directory))</entry>
+<entry timestamp="2014-12-31#20:01:03" user="GreetStepHandler" level="NORMAL">starting greet step...</entry>
+<entry timestamp="2014-12-31#20:01:04" user="" level="NORMAL">ACCEPTED! Message from ExampleAgent: INTRODUCE INTRODUCE</entry>
+<entry timestamp="2014-12-31#20:01:33" user="EndStepOnStopListeningDelegate" level="NORMAL">ending step GREETINGS...</entry>
+<entry timestamp="2014-12-31#20:01:33" user="PlanExecutor" level="NORMAL">starting 10 second delay timer for GREETINGS</entry>
+<entry timestamp="2014-12-31#20:01:33" user="PlanExecutor" level="NORMAL">PLAN: current step done: GREETINGS</entry>
+<entry timestamp="2014-12-31#20:01:33" user="Step" level="NORMAL">Handlers for CONDITION_A_NOTES(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@17fbf047]</entry>
+<entry timestamp="2014-12-31#20:01:33" user="PromptStepHandler" level="NORMAL">starting 0.5 second prompt delay</entry>
+<entry timestamp="2014-12-31#20:01:33" user="PromptStepHandler" level="NORMAL">ending 0.5 second prompt delay</entry>
+<entry timestamp="2014-12-31#20:01:33" user="PlanExecutor" level="NORMAL">starting 2 second delay timer for CONDITION_A_NOTES</entry>
+<entry timestamp="2014-12-31#20:01:34" user="" level="NORMAL">accepted. Message from ExampleAgent: CONDITION_A_NOTES CONDITION_A_NOTES.
+Starting blockout countdown... </entry>
+<entry timestamp="2014-12-31#20:01:35" user="PlanExecutor" level="NORMAL">PLAN: current step done: CONDITION_A_NOTES</entry>
+<entry timestamp="2014-12-31#20:01:35" user="Step" level="NORMAL">starting 1000 second timeout for CONDITION_A_RECALL_LISTEN</entry>
+<entry timestamp="2014-12-31#20:01:35" user="Step" level="NORMAL">Handlers for CONDITION_A_RECALL_LISTEN(listen): [basilica2.accountable.listeners.ConditionalListenStepHandler@23025044]</entry>
+<entry timestamp="2014-12-31#20:01:35" user="ConditionalListenStep" level="NORMAL">starting facilitation step with condition none</entry>
+<entry timestamp="2014-12-31#20:01:43" user="PlanExecutor" level="WARNING">PLAN: no idea what to do with timeout key GREETINGS</entry>
+<entry timestamp="2014-12-31#20:02:04" user="" level="NORMAL">ACCEPTED! Message from ExampleAgent: GIVE_UP_ON_INTRODUCTIONS GIVE_UP_ON_INTRODUCTIONS</entry>
+<entry timestamp="2014-12-31#20:18:16" user="PlanExecutor" level="NORMAL">PLAN: current step done: CONDITION_A_RECALL_LISTEN</entry>
+<entry timestamp="2014-12-31#20:18:16" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage intro</entry>

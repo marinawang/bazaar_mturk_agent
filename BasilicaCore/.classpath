@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/OtherLibraries/JGraph/jgraph.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/OtherLibraries/Xerces/resolver.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/OtherLibraries/Xerces/serializer.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/OtherLibraries/Xerces/xercesImpl.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/OtherLibraries/Xerces/xml-apis.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/OtherLibraries/Utilities.jar" sourcepath="/Users/dadamson/Laboratory/basilica/911-Libraries/Utilities/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

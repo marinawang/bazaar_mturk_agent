@@ -1,0 +1,12 @@
+<entry timestamp="2014-12-30#19:11:43" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT Sage_Test0101</entry>
+<entry timestamp="2014-12-30#19:11:43" user="Sage_Test0101.AGENT" level="NORMAL"><created>Sage_Test0101</created></entry>
+<entry timestamp="2014-12-30#19:11:43" user="Sage_Test0101.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2014-12-30#19:11:43" user="Sage_Test0101.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2014-12-30#19:11:43" user="Sage_Test0101.AGENT" level="FATAL">Unable to create component client.</entry>
+<entry timestamp="2014-12-30#19:11:43" user="Sage_Test0101.AGENT" level="WARNING">One of the connectees does not exist. Ignoring this connection.</entry>
+<entry timestamp="2014-12-30#19:11:43" user="Sage_Test0101.AGENT" level="WARNING">One of the connectees does not exist. Ignoring this connection.</entry>
+<entry timestamp="2014-12-30#19:11:43" user="Sage_Test0101.AGENT" level="WARNING">One of the connectees does not exist. Ignoring this connection.</entry>
+<entry timestamp="2014-12-30#19:11:43" user="Sage_Test0101.AGENT" level="WARNING">One of the connectees does not exist. Ignoring this connection.</entry>
+<entry timestamp="2014-12-30#19:11:43" user="Sage_Test0101.AGENT" level="NORMAL"><initialized>Sage_Test0101</initialized></entry>
+<entry timestamp="2014-12-30#19:11:43" user="Sage_Test0101.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2014-12-30#19:11:44" user="Sage_Test0101.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>

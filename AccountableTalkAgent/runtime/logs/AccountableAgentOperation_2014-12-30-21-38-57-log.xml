@@ -1,0 +1,49 @@
+<entry timestamp="2014-12-30#21:38:57" user="AccountableAgentOperation" level="INFO">Logger initialized</entry>
+<entry timestamp="2014-12-30#21:38:57" user="AccountableAgentOperation" level="NORMAL">AgentOperator AccountableAgentOperation created</entry>
+<entry timestamp="2014-12-30#21:38:57" user="AccountableAgentOperation" level="NORMAL">Operation Created</entry>
+<entry timestamp="2014-12-30#21:38:57" user="AccountableAgentOperation" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker]</entry>
+<entry timestamp="2014-12-30#21:38:57" user="AccountableAgentOperation" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor]</entry>
+<entry timestamp="2014-12-30#21:38:58" user="AccountableAgentOperation" level="NORMAL">Starting operation</entry>
+<entry timestamp="2014-12-30#21:38:58" user="AccountableAgentOperation" level="NORMAL">Operation started</entry>
+<entry timestamp="2014-12-30#21:39:03" user="AccountableAgentOperation" level="NORMAL">setting basilica2.agents.room_name to temp</entry>
+<entry timestamp="2014-12-30#21:39:03" user="AccountableAgentOperation" level="NORMAL"><launching room=temp/></entry>
+<entry timestamp="2014-12-30#21:39:03" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2014-12-30#21:39:03" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2014-12-30#21:39:03" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2014-12-30#21:39:03" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2014-12-30#21:39:03" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2014-12-30#21:39:03" user="AgentFactory" level="NORMAL">Agent build. Sage_temp</entry>
+<entry timestamp="2014-12-30#21:39:03" user="AccountableAgentOperation" level="NORMAL">Adding agent Sage_temp</entry>
+<entry timestamp="2014-12-30#21:39:03" user="AccountableAgentOperation" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2014-12-30#21:39:03" user="AccountableAgentOperation" level="INFO">Initializing new agent</entry>
+<entry timestamp="2014-12-30#21:39:04" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +2.5 wps</entry>
+<entry timestamp="2014-12-30#21:39:04" user="AccountableAgentOperation" level="ERROR">Don't know what to do for ccListener</entry>
+<entry timestamp="2014-12-30#21:39:04" user="AccountableAgentOperation" level="INFO">Starting new Agent</entry>
+<entry timestamp="2014-12-30#21:39:04" user="AccountableAgentOperation" level="NORMAL">notified UI of agent launch for Sage_temp</entry>
+<entry timestamp="2014-12-30#21:39:04" user="AccountableAgentOperation" level="NORMAL">Agent added Sage_temp</entry>
+<entry timestamp="2014-12-30#21:39:40" user="Sage_temp Wizard" level="INFO">displaying wizard UI for Sage_temp</entry>
+<entry timestamp="2014-12-30#21:39:45" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: intro</entry>
+<entry timestamp="2014-12-30#21:39:45" user="PlanExecutor" level="NORMAL">Firing Stage 'intro'</entry>
+<entry timestamp="2014-12-30#21:39:45" user="Step" level="NORMAL">starting 30 second timeout for GREETINGS</entry>
+<entry timestamp="2014-12-30#21:39:45" user="Step" level="NORMAL">Handlers for GREETINGS(greet): [basilica2.agents.listeners.plan.GreetStepHandler@4f2938f]</entry>
+<entry timestamp="2014-12-30#21:39:45" user="PromptTable" level="ERROR">Unable to load prompts (java.io.FileNotFoundException: /Users/researcher/Documents/workspace/AccountableTalkAgent/runtime/plans/alice_prompt.xml (No such file or directory))</entry>
+<entry timestamp="2014-12-30#21:39:45" user="GreetStepHandler" level="NORMAL">starting greet step...</entry>
+<entry timestamp="2014-12-30#21:39:47" user="" level="NORMAL">ACCEPTED! Message from Sage: INTRODUCE INTRODUCE</entry>
+<entry timestamp="2014-12-30#21:40:15" user="EndStepOnStopListeningDelegate" level="NORMAL">ending step GREETINGS...</entry>
+<entry timestamp="2014-12-30#21:40:15" user="PlanExecutor" level="NORMAL">starting 10 second delay timer for GREETINGS</entry>
+<entry timestamp="2014-12-30#21:40:15" user="PlanExecutor" level="NORMAL">PLAN: current step done: GREETINGS</entry>
+<entry timestamp="2014-12-30#21:40:15" user="Step" level="NORMAL">Handlers for CONDITION_A_NOTES(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@1a5f8113]</entry>
+<entry timestamp="2014-12-30#21:40:15" user="PromptStepHandler" level="NORMAL">starting 0.5 second prompt delay</entry>
+<entry timestamp="2014-12-30#21:40:15" user="" level="NORMAL">accepted. Message from Sage: CONDITION_A_NOTES CONDITION_A_NOTES.
+Starting blockout countdown... </entry>
+<entry timestamp="2014-12-30#21:40:16" user="PromptStepHandler" level="NORMAL">ending 0.5 second prompt delay</entry>
+<entry timestamp="2014-12-30#21:40:16" user="PlanExecutor" level="NORMAL">starting 2 second delay timer for CONDITION_A_NOTES</entry>
+<entry timestamp="2014-12-30#21:40:18" user="PlanExecutor" level="NORMAL">PLAN: current step done: CONDITION_A_NOTES</entry>
+<entry timestamp="2014-12-30#21:40:18" user="Step" level="NORMAL">starting 1000 second timeout for CONDITION_A_RECALL_LISTEN</entry>
+<entry timestamp="2014-12-30#21:40:18" user="Step" level="NORMAL">Handlers for CONDITION_A_RECALL_LISTEN(listen): [basilica2.accountable.listeners.ConditionalListenStepHandler@3574cdb9]</entry>
+<entry timestamp="2014-12-30#21:40:18" user="ConditionalListenStep" level="NORMAL">starting facilitation step with condition none</entry>
+<entry timestamp="2014-12-30#21:40:25" user="PlanExecutor" level="WARNING">PLAN: no idea what to do with timeout key GREETINGS</entry>
+<entry timestamp="2014-12-30#21:40:37" user="" level="NORMAL">ACCEPTED! Message from Sage: thr WIZARD</entry>
+<entry timestamp="2014-12-30#23:24:14" user="AccountableAgentOperation" level="NORMAL">Starting operation</entry>
+<entry timestamp="2014-12-30#23:24:14" user="AccountableAgentOperation" level="NORMAL">Operation started</entry>
+<entry timestamp="2014-12-30#23:24:14" user="AccountableAgentOperation" level="ERROR">Don't know how to disconnectccListener</entry>

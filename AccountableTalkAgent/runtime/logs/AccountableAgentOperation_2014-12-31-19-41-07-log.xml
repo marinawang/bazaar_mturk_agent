@@ -1,0 +1,7 @@
+<entry timestamp="2014-12-31#19:41:07" user="AccountableAgentOperation" level="INFO">Logger initialized</entry>
+<entry timestamp="2014-12-31#19:41:07" user="AccountableAgentOperation" level="NORMAL">AgentOperator AccountableAgentOperation created</entry>
+<entry timestamp="2014-12-31#19:41:07" user="AccountableAgentOperation" level="NORMAL">Operation Created</entry>
+<entry timestamp="2014-12-31#19:41:07" user="AccountableAgentOperation" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker]</entry>
+<entry timestamp="2014-12-31#19:41:07" user="AccountableAgentOperation" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor]</entry>
+<entry timestamp="2014-12-31#19:41:08" user="AccountableAgentOperation" level="NORMAL">Starting operation</entry>
+<entry timestamp="2014-12-31#19:41:08" user="AccountableAgentOperation" level="NORMAL">Operation started</entry>
