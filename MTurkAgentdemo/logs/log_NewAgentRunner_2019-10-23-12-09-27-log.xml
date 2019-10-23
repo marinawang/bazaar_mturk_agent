@@ -1,0 +1,18 @@
+<entry timestamp="2019-10-23#12:09:27" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2019-10-23#12:09:27" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2019-10-23#12:09:27" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2019-10-23#12:09:29" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2019-10-23#12:09:29" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2019-10-23#12:09:38" user="ConditionAgentUI" level="NORMAL">Conditions set to </entry>
+<entry timestamp="2019-10-23#12:09:41" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to Test01</entry>
+<entry timestamp="2019-10-23#12:09:41" user="NewAgentRunner" level="NORMAL"><launching room=Test01/></entry>
+<entry timestamp="2019-10-23#12:09:41" user="AgentFactory" level="NORMAL">Making Agent from null</entry>
+<entry timestamp="2019-10-23#12:09:46" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to Test01</entry>
+<entry timestamp="2019-10-23#12:09:46" user="NewAgentRunner" level="NORMAL"><launching room=Test01/></entry>
+<entry timestamp="2019-10-23#12:09:46" user="AgentFactory" level="NORMAL">Making Agent from null</entry>
+<entry timestamp="2019-10-23#12:10:50" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to Test01</entry>
+<entry timestamp="2019-10-23#12:10:50" user="NewAgentRunner" level="NORMAL"><launching room=Test01/></entry>
+<entry timestamp="2019-10-23#12:10:50" user="AgentFactory" level="NORMAL">Making Agent from null</entry>
+<entry timestamp="2019-10-23#12:10:54" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to Test01</entry>
+<entry timestamp="2019-10-23#12:10:54" user="NewAgentRunner" level="NORMAL"><launching room=Test01/></entry>
+<entry timestamp="2019-10-23#12:10:54" user="AgentFactory" level="NORMAL">Making Agent from null</entry>

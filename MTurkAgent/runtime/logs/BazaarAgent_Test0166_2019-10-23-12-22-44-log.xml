@@ -1,0 +1,813 @@
+<entry timestamp="2019-10-23#12:22:44" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT BazaarAgent_Test0166</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.AGENT" level="NORMAL"><created>BazaarAgent_Test0166</created></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.client" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.client" level="NORMAL"><created>client</created></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.client" level="NORMAL">Property read: socket_url =	http://bazaar.lti.cs.cmu.edu:80</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.ccActor" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.ccActor" level="NORMAL"><created>ccActor</created></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.ccActor" level="NORMAL">Property read: typingScale =	null</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL"><created>inputCoordinator</created></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL"><created>outputCoordinator</created></entry>
+<entry timestamp="2019-10-23#12:22:44" user="(client->inputCoordinator)" level="INFO">Connection initialized. Id=1571847764197</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.client" level="INFO">Outgoing connection added from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Inward connection added from inputCoordinator to client</entry>
+<entry timestamp="2019-10-23#12:22:44" user="(inputCoordinator->inputCoordinator)" level="INFO">Connection initialized. Id=1571847764208</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:22:44" user="(inputCoordinator->outputCoordinator)" level="INFO">Connection initialized. Id=1571847764219</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to outputCoordinator</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Inward connection added from outputCoordinator to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:22:44" user="(outputCoordinator->client)" level="INFO">Connection initialized. Id=1571847764219</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Outgoing connection added from outputCoordinator to client</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.client" level="INFO">Inward connection added from client to outputCoordinator</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.AGENT" level="NORMAL"><initialized>BazaarAgent_Test0166</initialized></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.client" level="INFO">Observer Added:client.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.ccActor" level="INFO">Observer Added:ccActor.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2019-10-23#12:22:44" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.edge</entry>
+<entry timestamp="2019-10-23#12:22:44" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.edge</entry>
+<entry timestamp="2019-10-23#12:22:44" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.edge</entry>
+<entry timestamp="2019-10-23#12:22:44" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.edge</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.client" level="INFO">Observer Added:client.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.ccActor" level="INFO">Observer Added:ccActor.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2019-10-23#12:22:44" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.panel</entry>
+<entry timestamp="2019-10-23#12:22:44" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.panel</entry>
+<entry timestamp="2019-10-23#12:22:44" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.panel</entry>
+<entry timestamp="2019-10-23#12:22:44" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.panel</entry>
+<entry timestamp="2019-10-23#12:22:44" user="AgreeDisagreeActor" level="WARNING">agree condition: false</entry>
+<entry timestamp="2019-10-23#12:22:44" user="AskForExplanationActor" level="WARNING">accountable_talk condition: false</entry>
+<entry timestamp="2019-10-23#12:22:44" user="RevoiceActor" level="WARNING">revoice condition: false</entry>
+<entry timestamp="2019-10-23#12:22:44" user="SayMoreActor" level="WARNING">say_more condition: false</entry>
+<entry timestamp="2019-10-23#12:22:44" user="PlanExecutor" level="NORMAL"><configuration planfile="plans/plan_steps.xml"></entry>
+<entry timestamp="2019-10-23#12:22:44" user="PlanExecutor" level="ERROR">PlanExecutor: Can't do that...java.io.IOException: No such file or directory</entry>
+<entry timestamp="2019-10-23#12:22:44" user="PlanExecutor" level="ERROR">Error while reading Status File (java.io.FileNotFoundException: planstatus/BazaarAgent_Test0166.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></commit></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.AGENT" level="NORMAL"><starting>Initializing each component</starting></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.stateMemory" level="NORMAL"><initialized>stateMemory</initialized></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL"><initialized>inputCoordinator</initialized></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.client" level="NORMAL"><initialized>client</initialized></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL"><initialized>outputCoordinator</initialized></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.ccActor" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.ccActor" level="NORMAL"><initialized>ccActor</initialized></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.AGENT" level="NORMAL"><starting>All components initialized</starting></entry>
+<entry timestamp="2019-10-23#12:22:44" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Observer Added:frame0. 3 Observers now.</entry>
+<entry timestamp="2019-10-23#12:22:45" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:22:45" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:22:45" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:22:45" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:22:45" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: BazaarAgent is now PRESENT</processing></entry>
+<entry timestamp="2019-10-23#12:22:45" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: BazaarAgent is now PRESENT</entry>
+<entry timestamp="2019-10-23#12:22:45" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: BazaarAgent is now PRESENT]</entry>
+<entry timestamp="2019-10-23#12:22:45" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:22:45" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:22:45" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:22:52" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:22:52" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:22:52" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:22:52" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Viktoria is now PRESENT</processing></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Viktoria is now PRESENT</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></retrieve></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:22:53" user="PlanExecutor" level="NORMAL">Plan: <stage name="initiate" timeout="10">set</stage></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2019-10-23#12:22:53" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Viktoria is now PRESENT]</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from BazaarAgent: Welcome, Viktoria
+ INTRODUCTION]</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from BazaarAgent: Welcome, Viktoria
+ INTRODUCTION]</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:22:53" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Viktoria is now PRESENT</processing></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Viktoria is now PRESENT</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Viktoria is now PRESENT]</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:22:53" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Proposal Queue: [Message from BazaarAgent: Welcome, Viktoria
+ INTRODUCTION]</entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Proposal Message from BazaarAgent: Welcome, Viktoria
+ INTRODUCTIONbelief*priority: 1.0*1000000.0=1000000.0</entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:22:54" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from BazaarAgent: Welcome, Viktoria
+ INTRODUCTION</processing></entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:22:54" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from BazaarAgent: Welcome, Viktoria
+ </processing></entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from BazaarAgent: Welcome, Viktoria
+ </entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:22:54" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from BazaarAgent: Welcome, Viktoria
+ ]</entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:22:54" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:23:03" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:03" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:03" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:03" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus/BazaarAgent_Test0166.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Proposal Queue: [Message from BazaarAgent: Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process. Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.]</entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Proposal not allowed by Source: INTRODUCTION: Message from BazaarAgent: Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process. Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.</entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Proposal Message from BazaarAgent: Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process. Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.belief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:04" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from BazaarAgent: Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process. Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.</processing></entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:04" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from BazaarAgent: Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process. </processing></entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from BazaarAgent: Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process. </entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:04" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from BazaarAgent: Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process. ]</entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:23:04" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:11" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Viktoria: plan 1  </processing></entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Viktoria: plan 1  </entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:11" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Viktoria: plan 1  PLAN+PLAN1]</entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:23:11" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:23:12" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:12" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:12" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:23:12" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Viktoria: xx </processing></entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Viktoria: xx </entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:13" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">null</dispatching></entry>
+<entry timestamp="2019-10-23#12:23:13" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate null from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="null" from="inputCoordinator"></queued></entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Viktoria: xx ]</entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="null" from="inputCoordinator">null</processing></entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: null</entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [null]</entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[Message from BazaarAgent: Hey Viktoria, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ? plan_reasoning]</entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: [Message from BazaarAgent: Hey Viktoria, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ? plan_reasoning]</entry>
+<entry timestamp="2019-10-23#12:23:13" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="null" from="inputCoordinator"></processed></entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Proposal Queue: [Message from BazaarAgent: Hey Viktoria, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ? plan_reasoning]</entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Proposal not allowed by Source: PromptStep: Message from BazaarAgent: Hey Viktoria, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ? plan_reasoning</entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Proposal Message from BazaarAgent: Hey Viktoria, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ? plan_reasoningbelief*priority: 0.0*1000000.0=1000000.0</entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:14" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from BazaarAgent: Hey Viktoria, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ? plan_reasoning</processing></entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:14" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from BazaarAgent: Hey Viktoria, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ? </processing></entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from BazaarAgent: Hey Viktoria, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ? </entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:14" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from BazaarAgent: Hey Viktoria, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ? ]</entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:23:14" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:18" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Viktoria: plan 2  </processing></entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Viktoria: plan 2  </entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:18" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Viktoria: plan 2  PLAN+PLAN2]</entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:23:18" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:19" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Viktoria: xx </processing></entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Viktoria: xx </entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:19" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Viktoria: xx ]</entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:23:19" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:31" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Viktoria: plan 3 </processing></entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Viktoria: plan 3 </entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:31" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Viktoria: plan 3 PLAN+PLAN3]</entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:23:31" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:32" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Viktoria: xx </processing></entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Viktoria: xx </entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:32" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Viktoria: xx ]</entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:23:32" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:54" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:54" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Viktoria is now PRESENT</processing></entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Viktoria is now PRESENT</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Viktoria is now PRESENT]</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Xu is now PRESENT</processing></entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Xu is now PRESENT</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Xu is now PRESENT]</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:23:54" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:23:55" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:23:55" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:23:55" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:23:55" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:23:55" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Xu is now PRESENT</processing></entry>
+<entry timestamp="2019-10-23#12:23:55" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Xu is now PRESENT</entry>
+<entry timestamp="2019-10-23#12:23:55" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:23:55" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:23:55" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Xu is now PRESENT]</entry>
+<entry timestamp="2019-10-23#12:23:55" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:23:55" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:23:55" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:24:00" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Xu: plan 2 xx </processing></entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Xu: plan 2 xx </entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:00" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Xu: plan 2 xx PLAN+PLAN2]</entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:24:00" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:24:13" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Xu: plan 2 is the best because it's environmentally friendly </processing></entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Xu: plan 2 is the best because it's environmentally friendly </entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">SOCIAL_TRIGGER_EVENT</dispatching></entry>
+<entry timestamp="2019-10-23#12:24:13" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate SOCIAL_TRIGGER_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:13" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:24:13" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:24:14" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Xu: plan 2 is the best because it's environmentally friendly PLAN+GIVING_OPINION+PLAN2]</entry>
+<entry timestamp="2019-10-23#12:24:14" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:24:14" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:24:14" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:24:14" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"><socialtrigger from="RULES" score="1.0" /></processing></entry>
+<entry timestamp="2019-10-23#12:24:14" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: <socialtrigger from="RULES" score="1.0" /></entry>
+<entry timestamp="2019-10-23#12:24:14" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [<socialtrigger from="RULES" score="1.0" />]</entry>
+<entry timestamp="2019-10-23#12:24:14" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:24:14" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:24:14" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:24:19" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Xu: yy </processing></entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Xu: yy </entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:19" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Xu: yy ]</entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:24:19" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:24:25" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:24:25" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:24:25" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:24:25" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:24:25" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Viktoria: plan 3 </processing></entry>
+<entry timestamp="2019-10-23#12:24:25" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Viktoria: plan 3 </entry>
+<entry timestamp="2019-10-23#12:24:25" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:25" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:24:25" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:25" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:25" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:24:25" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:24:26" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Viktoria: plan 3 PLAN+PLAN3]</entry>
+<entry timestamp="2019-10-23#12:24:26" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:24:26" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:24:26" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:24:57" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Xu: plan 2 is the best because it's environmentally friendly, since wind energy doesn't produce any gasses, and also it can be cheap and economical for the city </processing></entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Xu: plan 2 is the best because it's environmentally friendly, since wind energy doesn't produce any gasses, and also it can be cheap and economical for the city </entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">SOCIAL_TRIGGER_EVENT</dispatching></entry>
+<entry timestamp="2019-10-23#12:24:57" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate SOCIAL_TRIGGER_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:24:57" user="SocialController" level="NORMAL">ratio 0.0, ans=Xu,</entry>
+<entry timestamp="2019-10-23#12:24:57" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:24:59" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Xu: plan 2 is the best because it's environmentally friendly, since wind energy doesn't produce any gasses, and also it can be cheap and economical for the city PLAN+POSITIVITY+GIVING_OPINION+EXPLANATION_CONTRIBUTION+PLAN2]</entry>
+<entry timestamp="2019-10-23#12:24:59" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:24:59" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:24:59" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:24:59" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"><socialtrigger from="RULES" score="1.0" /></processing></entry>
+<entry timestamp="2019-10-23#12:24:59" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: <socialtrigger from="RULES" score="1.0" /></entry>
+<entry timestamp="2019-10-23#12:24:59" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [<socialtrigger from="RULES" score="1.0" />]</entry>
+<entry timestamp="2019-10-23#12:24:59" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:24:59" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:24:59" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="SOCIAL_TRIGGER_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2019-10-23#12:25:05" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:25:05" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:25:05" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:25:05" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:25:05" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Viktoria: ? </processing></entry>
+<entry timestamp="2019-10-23#12:25:05" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Viktoria: ? </entry>
+<entry timestamp="2019-10-23#12:25:05" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:25:05" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:25:05" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:25:05" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:25:05" user="SocialController" level="NORMAL">ratio 0.0, req=Viktoria,</entry>
+<entry timestamp="2019-10-23#12:25:05" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:25:06" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Viktoria: ? QUESTION]</entry>
+<entry timestamp="2019-10-23#12:25:06" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:25:06" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:25:06" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:25:10" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Viktoria: plan 3 </processing></entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Viktoria: plan 3 </entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:25:10" user="SocialController" level="NORMAL">ratio 0.0, </entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Viktoria: plan 3 PLAN+PLAN3]</entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:25:10" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:25:28" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:25:28" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Viktoria is now PRESENT</processing></entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Viktoria is now PRESENT</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Viktoria is now PRESENT]</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Xu is now ABSENT</processing></entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Xu is now ABSENT</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Xu is now ABSENT]</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:25:28" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:25:29" user="BazaarAgent_Test0166.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:25:29" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:25:29" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:25:29" user="BazaarAgent_Test0166.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:25:29" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Viktoria is now ABSENT</processing></entry>
+<entry timestamp="2019-10-23#12:25:29" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Viktoria is now ABSENT</entry>
+<entry timestamp="2019-10-23#12:25:29" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="true" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="false" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:25:29" user="BazaarAgent_Test0166.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="Viktoria" name="Viktoria" role="UNASSIGNED" present="false" />	<student id="Xu" name="Xu" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:25:29" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Viktoria is now ABSENT]</entry>
+<entry timestamp="2019-10-23#12:25:29" user="BazaarAgent_Test0166.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:25:29" user="BazaarAgent_Test0166.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:25:29" user="BazaarAgent_Test0166.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>

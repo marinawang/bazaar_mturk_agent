@@ -1,0 +1,8 @@
+2019-10-23,15:13:19,0,BazaarAgent,1571857999808,"Welcome, xx
+",INTRODUCTION
+2019-10-23,15:13:29,0,BazaarAgent,1571858009852,You are working in a team to design an energy proposal for a city. Now your goal is to choose from 4 different plans. Plan 1 highlights Coal energy. Plan 2 highlights Wind energy. Plan 3 highlights Nuclear energy. Plan 4 highlights Hydroelectric energy. Please discuss with the relative merits and demerits of each plan with your team.,You are working in a team to design an energy proposal for a city. Now your goal is to choose from 4 different plans. Plan 1 highlights Coal energy. Plan 2 highlights Wind energy. Plan 3 highlights Nuclear energy. Plan 4 highlights Hydroelectric energy. Please discuss with the relative merits and demerits of each plan with your team.
+2019-10-23,15:13:30,0,xx,1571858010315,i like plan 1,PLAN+POSITIVITY+PLAN1
+2019-10-23,15:13:36,0,xx,1571858016516,what abou tyou?,QUESTION
+2019-10-23,15:13:36,0,BazaarAgent,1571858017878,"Hey xx, can you elaborate on the reason you chose plan 1 from your perspective of what would be most environmentally friendly and with lowest startup costs ?",plan_reasoning
+2019-10-23,15:13:43,0,xx,1571858023804,i like plan 2,PLAN+POSITIVITY+PLAN2
+2019-10-23,15:13:47,0,xx,1571858027457,what about you?,QUESTION

@@ -1,0 +1,181 @@
+<entry timestamp="2019-10-23#12:12:50" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT BazaarAgent_Test0123</entry>
+<entry timestamp="2019-10-23#12:12:50" user="BazaarAgent_Test0123.AGENT" level="NORMAL"><created>BazaarAgent_Test0123</created></entry>
+<entry timestamp="2019-10-23#12:12:50" user="BazaarAgent_Test0123.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2019-10-23#12:12:50" user="BazaarAgent_Test0123.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2019-10-23#12:12:50" user="BazaarAgent_Test0123.client" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2019-10-23#12:12:50" user="BazaarAgent_Test0123.client" level="NORMAL"><created>client</created></entry>
+<entry timestamp="2019-10-23#12:12:50" user="BazaarAgent_Test0123.client" level="NORMAL">Property read: socket_url =	http://bazaar.lti.cs.cmu.edu:80</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.ccActor" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.ccActor" level="NORMAL"><created>ccActor</created></entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.ccActor" level="NORMAL">Property read: typingScale =	null</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.inputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.inputCoordinator" level="NORMAL"><created>inputCoordinator</created></entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.outputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.outputCoordinator" level="NORMAL"><created>outputCoordinator</created></entry>
+<entry timestamp="2019-10-23#12:12:51" user="(client->inputCoordinator)" level="INFO">Connection initialized. Id=1571847171017</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.client" level="INFO">Outgoing connection added from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.inputCoordinator" level="INFO">Inward connection added from inputCoordinator to client</entry>
+<entry timestamp="2019-10-23#12:12:51" user="(inputCoordinator->inputCoordinator)" level="INFO">Connection initialized. Id=1571847171017</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:12:51" user="(inputCoordinator->outputCoordinator)" level="INFO">Connection initialized. Id=1571847171017</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to outputCoordinator</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.outputCoordinator" level="INFO">Inward connection added from outputCoordinator to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:12:51" user="(outputCoordinator->client)" level="INFO">Connection initialized. Id=1571847171017</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.outputCoordinator" level="INFO">Outgoing connection added from outputCoordinator to client</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.client" level="INFO">Inward connection added from client to outputCoordinator</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.AGENT" level="NORMAL"><initialized>BazaarAgent_Test0123</initialized></entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.client" level="INFO">Observer Added:client.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.ccActor" level="INFO">Observer Added:ccActor.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2019-10-23#12:12:51" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.edge</entry>
+<entry timestamp="2019-10-23#12:12:51" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.edge</entry>
+<entry timestamp="2019-10-23#12:12:51" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.edge</entry>
+<entry timestamp="2019-10-23#12:12:51" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.edge</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.client" level="INFO">Observer Added:client.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.ccActor" level="INFO">Observer Added:ccActor.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2019-10-23#12:12:51" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.panel</entry>
+<entry timestamp="2019-10-23#12:12:51" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.panel</entry>
+<entry timestamp="2019-10-23#12:12:51" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.panel</entry>
+<entry timestamp="2019-10-23#12:12:51" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.panel</entry>
+<entry timestamp="2019-10-23#12:12:51" user="AgreeDisagreeActor" level="WARNING">agree condition: false</entry>
+<entry timestamp="2019-10-23#12:12:51" user="AskForExplanationActor" level="WARNING">accountable_talk condition: false</entry>
+<entry timestamp="2019-10-23#12:12:51" user="RevoiceActor" level="WARNING">revoice condition: false</entry>
+<entry timestamp="2019-10-23#12:12:51" user="SayMoreActor" level="WARNING">say_more condition: false</entry>
+<entry timestamp="2019-10-23#12:12:51" user="PlanExecutor" level="NORMAL"><configuration planfile="plans/plan_steps.xml"></entry>
+<entry timestamp="2019-10-23#12:12:51" user="PlanExecutor" level="ERROR">PlanExecutor: Can't do that...java.io.IOException: No such file or directory</entry>
+<entry timestamp="2019-10-23#12:12:51" user="PlanExecutor" level="ERROR">Error while reading Status File (java.io.FileNotFoundException: planstatus/BazaarAgent_Test0123.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></commit></entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.AGENT" level="NORMAL"><starting>Initializing each component</starting></entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.stateMemory" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.stateMemory" level="NORMAL"><initialized>stateMemory</initialized></entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.inputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.inputCoordinator" level="NORMAL"><initialized>inputCoordinator</initialized></entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.client" level="NORMAL"><initialized>client</initialized></entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.outputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.outputCoordinator" level="NORMAL"><initialized>outputCoordinator</initialized></entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.ccActor" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.ccActor" level="NORMAL"><initialized>ccActor</initialized></entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.AGENT" level="NORMAL"><starting>All components initialized</starting></entry>
+<entry timestamp="2019-10-23#12:12:51" user="BazaarAgent_Test0123.inputCoordinator" level="INFO">Observer Added:frame0. 3 Observers now.</entry>
+<entry timestamp="2019-10-23#12:12:52" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:12:52" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:12:52" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:12:52" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:12:52" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: BazaarAgent is now PRESENT</processing></entry>
+<entry timestamp="2019-10-23#12:12:52" user="BazaarAgent_Test0123.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: BazaarAgent is now PRESENT</entry>
+<entry timestamp="2019-10-23#12:12:52" user="BazaarAgent_Test0123.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: BazaarAgent is now PRESENT]</entry>
+<entry timestamp="2019-10-23#12:12:52" user="BazaarAgent_Test0123.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:12:52" user="BazaarAgent_Test0123.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:12:52" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2019-10-23#12:13:09" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:13:09" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:13:09" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:13:09" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:13:10" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: xx is now PRESENT</processing></entry>
+<entry timestamp="2019-10-23#12:13:10" user="BazaarAgent_Test0123.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: xx is now PRESENT</entry>
+<entry timestamp="2019-10-23#12:13:10" user="BazaarAgent_Test0123.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></retrieve></entry>
+<entry timestamp="2019-10-23#12:13:10" user="BazaarAgent_Test0123.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="xx" name="xx" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:13:10" user="BazaarAgent_Test0123.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="xx" name="xx" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:13:10" user="BazaarAgent_Test0123.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="xx" name="xx" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:13:10" user="PlanExecutor" level="NORMAL">Plan: <stage name="initiate" timeout="10">set</stage></entry>
+<entry timestamp="2019-10-23#12:13:10" user="BazaarAgent_Test0123.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2019-10-23#12:13:10" user="BazaarAgent_Test0123.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2019-10-23#12:13:10" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:13:10" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:13:10" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:13:10" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:13:17" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:13:17" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:13:17" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:13:17" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:13:18" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:13:18" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:13:18" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:13:18" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:13:18" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:13:18" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:13:18" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:13:18" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:13:20" user="BazaarAgent_Test0123.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="xx" name="xx" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:13:20" user="BazaarAgent_Test0123.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="xx" name="xx" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2019-10-23#12:13:20" user="BazaarAgent_Test0123.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process." type="prompt"/>
+	<student id="xx" name="xx" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2019-10-23#12:13:20" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus/BazaarAgent_Test0123.planstatus.txt (No such file or directory))</entry>
+<entry timestamp="2019-10-23#12:13:21" user="BazaarAgent_Test0123.outputCoordinator" level="INFO">Proposal Queue: [Message from BazaarAgent: Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process. Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.]</entry>
+<entry timestamp="2019-10-23#12:13:21" user="BazaarAgent_Test0123.outputCoordinator" level="INFO">Proposal Message from BazaarAgent: Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process. Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.belief*priority: 1.0*0.75=0.75</entry>
+<entry timestamp="2019-10-23#12:13:21" user="BazaarAgent_Test0123.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:13:21" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2019-10-23#12:13:21" user="BazaarAgent_Test0123.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2019-10-23#12:13:21" user="BazaarAgent_Test0123.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:13:21" user="BazaarAgent_Test0123.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from BazaarAgent: Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process. Please use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.</processing></entry>
+<entry timestamp="2019-10-23#12:13:21" user="BazaarAgent_Test0123.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2019-10-23#12:13:21" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:13:21" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:13:21" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:13:21" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:13:47" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:13:47" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:13:47" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:13:47" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:13:49" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:13:49" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:13:49" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:13:49" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:14:10" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:14:10" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:14:10" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:14:10" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:14:11" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:14:11" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:14:11" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:14:11" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:14:24" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:14:24" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:14:24" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:14:24" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:14:24" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:14:24" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:14:24" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:14:24" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:14:25" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:14:25" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:14:25" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:14:25" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:14:31" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:14:31" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:14:31" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:14:31" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2019-10-23#12:14:33" user="BazaarAgent_Test0123.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2019-10-23#12:14:33" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2019-10-23#12:14:33" user="BazaarAgent_Test0123.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2019-10-23#12:14:33" user="BazaarAgent_Test0123.client" level="INFO">Informing 2 Observers of Event Sending</entry>

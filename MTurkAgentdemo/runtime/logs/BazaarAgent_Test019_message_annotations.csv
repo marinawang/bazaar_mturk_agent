@@ -1,0 +1,13 @@
+2019-10-23,15:18:57,0,BazaarAgent,1571858338721,"Welcome, xu
+",INTRODUCTION
+2019-10-23,15:19:07,0,BazaarAgent,1571858348768,You are working in a team to design an energy proposal for a city. Now your goal is to choose from 4 different plans. Plan 1 highlights Coal energy. Plan 2 highlights Wind energy. Plan 3 highlights Nuclear energy. Plan 4 highlights Hydroelectric energy. Please discuss with the relative merits and demerits of each plan with your team.,You are working in a team to design an energy proposal for a city. Now your goal is to choose from 4 different plans. Plan 1 highlights Coal energy. Plan 2 highlights Wind energy. Plan 3 highlights Nuclear energy. Plan 4 highlights Hydroelectric energy. Please discuss with the relative merits and demerits of each plan with your team.
+2019-10-23,15:19:12,0,BazaarAgent,1571858352784,"Welcome, Chas
+",INTRODUCTION
+2019-10-23,15:19:29,0,BazaarAgent,1571858370839,"Welcome, Sree
+",INTRODUCTION
+2019-10-23,15:19:46,0,xu,1571858386639,i like plan 1,PLAN+POSITIVITY+PLAN1
+2019-10-23,15:19:51,0,xu,1571858391630,what about you?,QUESTION
+2019-10-23,15:19:51,0,BazaarAgent,1571858392902,"Hey xu, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ?",plan_reasoning
+2019-10-23,15:20:04,0,Sree,1571858404997,i think plan 2 is bettere,PLAN+GIVING_OPINION+GIVING_ORIENTATION+PLAN2
+2019-10-23,15:20:09,0,Sree,1571858410233,i think plan 2 is better,PLAN+GIVING_OPINION+GIVING_ORIENTATION+PLAN2
+2019-10-23,15:20:10,0,BazaarAgent,1571858410960,"Hey Sree, you have proposed plan 2, and xu has proposed plan 1. What do you think are the most important trade-offs between the two plans from your perspective of carbon neutrality and what is best economically in the long run ?",plan_reasoning

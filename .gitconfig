@@ -1,0 +1,22 @@
+[filesystem "Oracle Corporation|12.0.2|/dev/disk1s1"]
+	timestampResolution = 7000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+  hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  type = cat-file -t
+  dump = cat-file -p
+[user]
+	name = Chas Murray
+	email = rcmurray@andrew.cmu.edu
+[core]
+	editor = /Applications/BBEedit.app --wait
+	excludesfile = /Users/rcmurray/.gitignore_global
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

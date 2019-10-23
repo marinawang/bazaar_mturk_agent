@@ -97,7 +97,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 	private boolean startAnyways = true;
 	private String dialogueFolder = "dialogs";
 	
-	private String dialogueConfigFile = "dialogues/dialogues-config.xml";
+	private String dialogueConfigFile = "dialogues/dialogues-example.xml";
 	private int introduction_cue_timeout = 60;
 	private int introduction_cue_timeout2 = 60;
 	private int tutorTimeout = 45;

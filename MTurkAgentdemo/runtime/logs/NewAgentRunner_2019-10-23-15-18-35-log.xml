@@ -1,0 +1,52 @@
+<entry timestamp="2019-10-23#15:18:35" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2019-10-23#15:18:35" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2019-10-23#15:18:35" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2019-10-23#15:18:36" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.side.listeners.LightSideMessageAnnotator, class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2019-10-23#15:18:36" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2019-10-23#15:18:37" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2019-10-23#15:18:37" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2019-10-23#15:18:42" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to Test019</entry>
+<entry timestamp="2019-10-23#15:18:42" user="NewAgentRunner" level="NORMAL"><launching room=Test019/></entry>
+<entry timestamp="2019-10-23#15:18:42" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2019-10-23#15:18:42" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2019-10-23#15:18:42" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2019-10-23#15:18:42" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2019-10-23#15:18:42" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2019-10-23#15:18:42" user="AgentFactory" level="NORMAL">Agent build. BazaarAgent_Test019</entry>
+<entry timestamp="2019-10-23#15:18:42" user="NewAgentRunner" level="NORMAL">Adding agent BazaarAgent_Test019</entry>
+<entry timestamp="2019-10-23#15:18:42" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2019-10-23#15:18:42" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2019-10-23#15:18:42" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2019-10-23#15:18:43" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2019-10-23#15:18:43" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for BazaarAgent_Test019</entry>
+<entry timestamp="2019-10-23#15:18:43" user="NewAgentRunner" level="NORMAL">Agent added BazaarAgent_Test019</entry>
+<entry timestamp="2019-10-23#15:18:57" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2019-10-23#15:18:58" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2019-10-23#15:18:58" user="" level="NORMAL">accepted. Message from BazaarAgent: Welcome, xu
+ INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2019-10-23#15:19:07" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2019-10-23#15:19:07" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2019-10-23#15:19:07" user="Step" level="NORMAL">Handlers for You are working in a team to design an energy proposal for a city. Now your goal is to choose from 4 different plans. Plan 1 highlights Coal energy. Plan 2 highlights Wind energy. Plan 3 highlights Nuclear energy. Plan 4 highlights Hydroelectric energy. Please discuss with the relative merits and demerits of each plan with your team.(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@43ef8ed9]</entry>
+<entry timestamp="2019-10-23#15:19:07" user="PromptStepHandler" level="NORMAL">starting 17.5 second prompt delay</entry>
+<entry timestamp="2019-10-23#15:19:08" user="" level="NORMAL">accepted. Message from BazaarAgent: You are working in a team to design an energy proposal for a city. Now your goal is to choose from 4 different plans. Plan 1 highlights Coal energy. Plan 2 highlights Wind energy. Plan 3 highlights Nuclear energy. Plan 4 highlights Hydroelectric energy. Please discuss with the relative merits and demerits of each plan with your team. You are working in a team to design an energy proposal for a city. Now your goal is to choose from 4 different plans. Plan 1 highlights Coal energy. Plan 2 highlights Wind energy. Plan 3 highlights Nuclear energy. Plan 4 highlights Hydroelectric energy. Please discuss with the relative merits and demerits of each plan with your team..
+Starting blockout countdown... </entry>
+<entry timestamp="2019-10-23#15:19:12" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2019-10-23#15:19:12" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2019-10-23#15:19:12" user="" level="NORMAL">accepted. Message from BazaarAgent: Welcome, Chas
+ INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2019-10-23#15:19:12" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2019-10-23#15:19:25" user="PromptStepHandler" level="NORMAL">ending 17.5 second prompt delay</entry>
+<entry timestamp="2019-10-23#15:19:25" user="PlanExecutor" level="NORMAL">starting 600 second delay timer for You are working in a team to design an energy proposal for a city. Now your goal is to choose from 4 different plans. Plan 1 highlights Coal energy. Plan 2 highlights Wind energy. Plan 3 highlights Nuclear energy. Plan 4 highlights Hydroelectric energy. Please discuss with the relative merits and demerits of each plan with your team.</entry>
+<entry timestamp="2019-10-23#15:19:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 2</entry>
+<entry timestamp="2019-10-23#15:19:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2019-10-23#15:19:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2019-10-23#15:19:30" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 3</entry>
+<entry timestamp="2019-10-23#15:19:30" user="" level="NORMAL">accepted. Message from BazaarAgent: Welcome, Sree
+ INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2019-10-23#15:19:52" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey xu, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ? plan_reasoning.
+Starting blockout countdown... </entry>
+<entry timestamp="2019-10-23#15:20:10" user="" level="NORMAL">accepted. Message from BazaarAgent: Hey Sree, you have proposed plan 2, and xu has proposed plan 1. What do you think are the most important trade-offs between the two plans from your perspective of carbon neutrality and what is best economically in the long run ? plan_reasoning.
+Starting blockout countdown... </entry>
